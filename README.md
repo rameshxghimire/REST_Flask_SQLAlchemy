@@ -1,4 +1,5 @@
-#REST API with Flask
+# REST API with Flask
+
 A CRUD RESTful API using Flask and SQLAlchemy. 
 The default SQLite database is used for the database. 
 
