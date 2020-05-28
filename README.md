@@ -1,4 +1,5 @@
-# REST API with Flask
+# One Pager REST API with Flask
+## Splitting up and extending recommended
 
 This is a one file API which can be taken as example for how flasks works. I do not recommend using it for production because it is very barebones and does not take into account best practices and other concerns. Instead of modifying this to make it production ready, I can add a completely new project if I get a request to do so.
 
